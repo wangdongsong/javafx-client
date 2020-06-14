@@ -1,0 +1,16 @@
+root {
+    display: block;
+}
+
+.tab {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+    -background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+
+.button {
+    -fx-padding: 10px, 10px, 10px, 10px;
+}
