@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>14</maven.compiler.release>
         <javafx.version>14</javafx.version>
-        <log4j-version>2.13.3</log4j-version>
+        <log4j-version>2.16.0</log4j-version>
     </properties>
 
     <dependencies>
